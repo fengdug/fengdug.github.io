@@ -1,4 +1,5 @@
 # fengdug.github.io
+我的一些想法 [Gidol-个人札记][def]
 <table border="0">
   <tr>
     <td width="75%">
@@ -13,4 +14,6 @@
     </td>
   </tr>
 </table>
-我的一些想法 [Gidol-个人札记](https://dwz.cn/amoJPOy)
+
+
+[def]: https://dwz.cn/amoJPOy
